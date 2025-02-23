@@ -9,5 +9,5 @@ local Hint = Instance.New("Hint",game.Workspace)
 task.wait(0.1)
 Hint.Text = "you have been skibidied by the rizzler"
 task.wait(0.1)
-Hint.Text = "MUAHAHAHHAHAHAHHAHAHAHHAHAHAHH👿👿👿👿👿👿👿👿👿"
+Hint.Text = "MUAHAHAHHAHAHAHHAHAHAHHAHAHAHH😈😈😈😈😈😈😈😈😈"
 end
