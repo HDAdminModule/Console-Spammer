@@ -1,8 +1,13 @@
+while true do task.wait(.25)
 print("hai")
 local part1 = Instance.New("Part")
 part1.Anchored = false
---skebadi
-
+print("hai2")
 task.wait(0.1)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HDAdminModule/Console-Spammer/refs/heads/main/Troller2.luau"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HDAdminModule/Console-Spammer/refs/heads/main/Troller3.luau"))()
+print("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+local Hint = Instance.New("Hint",game.Workspace)
+task.wait(0.1)
+Hint.Text = "you have been skibidied by the rizzler"
+task.wait(0.1)
+Hint.Text = "MUAHAHAHHAHAHAHHAHAHAHHAHAHAHH👿👿👿👿👿👿👿👿👿"
+end
